@@ -4,10 +4,12 @@ html, body
     padding:0;
     background-image:url(cloaker-payday2.gif);
     background-size:cover;
+    cursor:none;
 }
 img
 {
     width:100%;
     height:100%;
     object-fit:cover;
+    cursor:none;
 }
