@@ -7,7 +7,7 @@ playAudio('path')
 
 
 function groove() {
-	console.log("fuck");
+	console.log("Try a little harder.");
 	window.moveTo(randomRange(0, screen.width), randomRange(0, screen.height));
 }
 
