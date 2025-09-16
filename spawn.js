@@ -9,7 +9,7 @@ function cool() {
     if (document.getElementById("main")) {
         if (!played) {
             document.title = "I GOT YOUR DLC RIGHT HERE!";
-            setInterval(fuckbackground, 250);
+            setInterval(fuckbackground, 500);
             document.getElementById("game").innerHTML = "<h1>WE CALL THIS A DIFFICULTY TWEAK!</h1> <hr> <marquee scrollamount=125 behavior='alternate'><img src='cloaker-payday2.gif'></marquee>";
             var audio = new Audio('audio_midloud.mp3');
             audio.play();
