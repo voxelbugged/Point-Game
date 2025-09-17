@@ -12,6 +12,6 @@ function groove() {
 }
 
 window.onload = () => {
-	setInterval(groove, 500);
+	setInterval(groove, 240);
 	return true;
 }
